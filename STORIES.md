@@ -65,6 +65,8 @@ Je souhaite passer une commande
 
 Contraintes:
 - Une page est dédiée à cet effet avec un formulaire dans lequel l'utilisateur entre son adresse de livraison.
+- Une commande ne doit pas pouvoir etre passée si un article n'est plus en stock
+- Lorsqu'une commande est passée, mettre à jour le stock disponible
 
 5.
 En tant qu'admin
