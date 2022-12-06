@@ -91,3 +91,9 @@ Contraintes:
 Le client doit avoir accès a la liste de ses commandes et doit voir les détails de celle-ci.
 
 
+8. 
+En tant qu'utilisateur je souhaite m'inscire et me connecter sur le site
+
+Contraintes:
+- Mot de passe hashé
+- Role utilisateur et administrateur
