@@ -36,18 +36,18 @@ Contraintes:
 - Un formulaire pour modifier un produit
 - Vous ne devez pas gérer l'upload d'image (c'est bonus)
 - La page ne doit être accessible uniquement par un admin (role stocké en BDD)
-- ( /?p=admin_change_product&id=2 )
+- ( Exemple: Formulaire sur la page /?p=admin_change_product&id=2 )
 
 2C.
 En tant qu'admin
-je souhaite pouvoir modifier un produit
+je souhaite pouvoir supprimer un produit
 afin de 1.
 
 Contraintes:
 - Un formulaire pour modifier un produit
 - Vous ne devez pas gérer l'upload d'image (c'est bonus)
 - La page ne doit être accessible uniquement par un admin (role stocké en BDD)
-- ( /?p=admin_change_product&id=2 )
+- ( action: /actions/admin_delete_product.php?id=2 )
 
 3.
 En tant qu'utilisateur
